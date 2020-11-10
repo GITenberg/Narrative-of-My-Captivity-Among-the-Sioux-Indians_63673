@@ -1,11 +1,16 @@
 _repo: Narrative-of-My-Captivity-Among-the-Sioux-Indians_63673
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63673-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelly, Fanny
     gutenberg_agent_id: '52550'
     url: http://www.gutenberg.org/2009/agents/52550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63673#Narrative-of-My-Captivity-Among-the-Sioux-Indians
 gutenberg_issued: '2020-11-08'
 gutenberg_type: Text
 identifiers:
